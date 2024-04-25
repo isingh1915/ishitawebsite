@@ -36,7 +36,7 @@ a {
 /* Profile picture style */
 .profile-pic {
     max-width: 200px;
-    height: auto;
+    height: 200px;
     display: block;
     margin: 20px auto;
     float: right;
